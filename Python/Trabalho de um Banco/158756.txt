@@ -1,0 +1,7 @@
+Alfredo dos Santos
+158756
+comum
+2020
+Data: 17\10\2021 13:51 + 400.00 Tarifa: 0.00 Saldo: 400.00
+Data: 17\10\2021 14:05 - 200.00 Tarifa: 6.00 Saldo: 194.00
+Data: 17\10\2021 15:03 - 900.00 Tarifa: 0.00 Saldo: 1094.00

@@ -1,0 +1,6 @@
+ID: 43301
+Nome: Cayque
+Data de Nascimento: ['20', '01', '2003']
+Idade: 19
+Endereço: minha casa
+Profissão: estudante
